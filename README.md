@@ -1,3 +1,5 @@
+An undergrad. Fascinated by the power of open source and hoping to leave something behind in this universe that someone in the future will come across and find a solution.
+
 
 <!--
 **arushsharma24/arushsharma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
