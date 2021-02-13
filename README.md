@@ -1,4 +1,5 @@
-### Hi there 👋
+### I'm Arush
+I'm a highly lazy undergrad and I know nothing
 
 <!--
 **arushsharma24/arushsharma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
