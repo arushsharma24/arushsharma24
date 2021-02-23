@@ -1,13 +1,13 @@
-An undergrad. Fascinated by the power of open source and hoping to leave something behind in this universe that someone in the future will come across and find a solution.
-
 ## Arush Sharma
 ![](https://visitor-badge.glitch.me/badge?page_id=arushsharma24.arushsharma24)
 [![GitHub followers](https://img.shields.io/github/followers/arushsharma24.svg?style=social&label=Follow)](https://github.com/arushsharma24?tab=followers)
+
 ### Software Developer
-#### ECE undergrad at IIT Roorkee
+An ECE undergrad at IIT Roorkee. Fascinated by the power of open source and hoping to leave something behind in this universe that someone in the future will come across and find a solution in.
+
 ![Arush's github stats](https://github-readme-stats.vercel.app/api?username=arushsharma24&count_private=true&show_icons=true&theme=algolia) <br />
 
-📫 Connect with me on <a href="https://www.linkedin.com/in/arushsharma24">Linkedin</a>
+My <a href="https://www.linkedin.com/in/arushsharma24">Linkedin</a>
 
 
 <!--
