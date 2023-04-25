@@ -8,8 +8,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=arushsharma24&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/arushsharma24"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
-  <br><br>
+  <!-- <a href="https://www.buymeacoffee.com/arushsharma24"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="150" padding="5" margin="5" alt="aveek.saha" /></a> -->
   <a href="https://www.linkedin.com/in/arushsharma24"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50" width="50" alt="arushsharma24" /></a>
 </p>
 
